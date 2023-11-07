@@ -5,6 +5,7 @@
     <link>https://klubbgp.github.io/categories/</link>
     <description>Recent content in Categories on Mellansvenska Klubb GP Serien</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>sv-SE</language><atom:link href="https://klubbgp.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>sv-SE</language>
+    <atom:link href="https://klubbgp.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
